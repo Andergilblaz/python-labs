@@ -5,7 +5,7 @@
 * **Platform:** freeCodeCamp
 * **Course:** Learn Python for Beginners
 * **Started:** April 30, 2026
-* **Completed:**
+* **Completed:** May 5, 2026
 
 ---
 
